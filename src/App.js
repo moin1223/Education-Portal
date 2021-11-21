@@ -6,6 +6,7 @@ import Payment from "../src/pages/payment/Payment";
 import Home from "./components/Home/Home/Home"
 import NewLogin from "./Firebase/NewLogin/NewLogin";
 // import "./App.scss";
+//this is moin brance
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 
