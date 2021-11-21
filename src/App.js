@@ -8,7 +8,7 @@ import NewLogin from "./Firebase/NewLogin/NewLogin";
 // import "./App.scss";
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
-
+//from tanvir
 
 function App() {
   return (
